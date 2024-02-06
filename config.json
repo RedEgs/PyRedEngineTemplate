@@ -1,0 +1,14 @@
+
+    {
+        "app": {
+            "settings": {
+                "resolution": "1280x720",
+                "v-sync": 0,
+                "max-fps": 60,
+                "window-title-name": "",
+                "window-icon-path": "",
+                "start-scene": ""
+            }
+        }
+    }
+    
